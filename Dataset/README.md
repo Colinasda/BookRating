@@ -23,4 +23,4 @@ Test_result_DTR
 ***
 
 Warm prompt:
-The path to read the file in the code is the path on my computer, and you need to change it to your path when you run the code～～
+The path to read the file in the code is the path on my computer, and you need to change it to your path when you run the code
